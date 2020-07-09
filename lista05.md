@@ -4,8 +4,7 @@
 </br>
 
 2. Criar um programa que informe o preço total e a quantidade total de calorias de uma refeição a partir da escolha do cliente. O cliente deverá escolher o prato, sobremesa e bebida (veja a tabela a seguir):
-`Exemplo: Usuário optou Vegetariano + Mousse diet + Chá, reposta do programa = R$ 12,50 e
-370 Kcal.`
+`Exemplo: Usuário optou Vegetariano + Mousse diet + Chá, reposta do programa = R$ 12,50 e 370 Kcal.`
 Para este programa deverá ser elaborado um menu, com as opções de prato, sobremesa e bebida. Neste menu, após finalizar a solicitação de cada cliente, deverá ser perguntado ao usuário se ele quer encerrar o programa ou se ele deseja ler as opções de um novo cliente.
 </br>
 
